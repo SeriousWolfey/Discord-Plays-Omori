@@ -3,6 +3,7 @@ Play Omori with Friends on Discord while Streaming by typing commands on Discord
 
 If you want to Stream the Game with a Keyboard Overlay, I Suggest using NohBoard 
 https://github.com/ThoNohT/NohBoard
+
 move "Omori.kb" file in the NohBoard Folder and you should have a custom Omori Keyboard. optionally, you could also move the "NohBoard.config" file.
 For Streaming with the Keyboard Overlay, you can setup OBS however way you like. once you are done, simply Right click the Preview, Select "Fullscreen Projector (Preview)" and Stream that window on Discord.
 
