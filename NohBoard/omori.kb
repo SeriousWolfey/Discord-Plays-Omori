@@ -1,0 +1,15 @@
+KBVersion 3
+width 182
+height 161
+category Games
+nKeysDefined 10
+key 81 0 0 43 43 Q Q 0 0
+key 87 44 0 43 43 W W 0 0
+key 65 0 44 43 43 A A 0 0
+key 90 0 88 43 43 Z Z 0 0
+key 88 44 88 43 43 X X 0 0
+key 38 88 0 43 43 %up% %up% 0 0
+key 37 44 44 43 43 %left% %left% 0 0
+key 40 88 44 43 43 %down% %down% 0 0
+key 39 132 44 43 43 %right% %right% 0 0
+key 160 88 88 87 43 Shift Shift 0 0
